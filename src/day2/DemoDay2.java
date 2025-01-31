@@ -11,6 +11,8 @@ public class DemoDay2 {
 		int b = 10;
 		
 		System.out.println(a + b);
+
+		// This is from GitHub.
 	}
 
 }
