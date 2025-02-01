@@ -28,6 +28,8 @@ public class DemoDay2 {
 	// Example of Stash - Divide Method
 	public void divide(int a, int b) {
 		System.out.println(a / b);
+		
+		// Comment
 	}
 
 }
