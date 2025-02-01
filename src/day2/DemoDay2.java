@@ -30,6 +30,8 @@ public class DemoDay2 {
 		System.out.println(a / b);
 		
 		// Comment
+
+		// New Line.
 	}
 
 }
